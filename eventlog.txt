@@ -1,0 +1,6 @@
+$ {new Date().toISOString()}- Application started
+$ {new Date().toISOString()}- Application event occured
+$ {new Date().toISOString()}- Current memory usage : 15.79
+$ {new Date().toISOString()}- Current memory usage : 15.48
+$ {new Date().toISOString()}- Current memory usage : 16.58
+$ {new Date().toISOString()}- Current memory usage : 16.49
